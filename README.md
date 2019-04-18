@@ -1,5 +1,7 @@
 # Links
 
+RUSTCON ASIA 2019, Improving web app with Rust and WebAssembly
+
 ## General
 
 - [wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - js bindings
