@@ -23,3 +23,6 @@ RUSTCON ASIA 2019, Improving web app with Rust and WebAssembly
 - [nalgebra](https://crates.io/crates/nalgebra) - Linear algebra library
 - [ncollide](https://crates.io/crates/ncollide) - 2 and 3-dimensional collision detection library
 - [tri-mesh](https://crates.io/crates/tri-mesh) - A triangle mesh data structure including basic operations
+
+## Community
+- https://discord.gg/rust-lang - general Rust discord server, `wg-wasm` - WebAssembly-related channel
