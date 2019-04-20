@@ -20,9 +20,9 @@ RUSTCON ASIA 2019, Improving web app with Rust and WebAssembly
 - [cargo-audit](https://crates.io/crates/cargo-audit) - check your dependencies for vulnerabilities
 
 ## 3D math
-- [nalgebra](https://crates.io/crates/nalgebra) - Linear algebra library
+- [nalgebra](https://crates.io/crates/nalgebra) - linear algebra library
 - [ncollide](https://crates.io/crates/ncollide) - 2 and 3-dimensional collision detection library
-- [tri-mesh](https://crates.io/crates/tri-mesh) - A triangle mesh data structure including basic operations
+- [tri-mesh](https://crates.io/crates/tri-mesh) - a triangle mesh data structure including basic operations
 
 ## Community
 - https://discord.gg/rust-lang - general Rust discord server, `wg-wasm` - WebAssembly-related channel
