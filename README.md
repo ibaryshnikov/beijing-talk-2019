@@ -21,7 +21,7 @@ RUSTCON ASIA 2019, Improving web app with Rust and WebAssembly
 
 ## 3D math
 - [nalgebra](https://crates.io/crates/nalgebra) - linear algebra library
-- [ncollide](https://crates.io/crates/ncollide) - 2 and 3-dimensional collision detection library
+- [ncollide2d](https://crates.io/crates/ncollide2d) / [ncollide3d](https://crates.io/crates/ncollide2d) - 2 and 3-dimensional collision detection library
 - [tri-mesh](https://crates.io/crates/tri-mesh) - a triangle mesh data structure including basic operations
 
 ## Community
